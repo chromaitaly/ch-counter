@@ -1,0 +1,31 @@
+{
+  "name": "ch-counter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chromaitaly/ch-counter",
+  "authors": [
+    "simonered"
+  ],
+  "description": "Material counter",
+  "main": [
+    "ch-counter.js"
+  ],
+  "keywords": [
+    "angular",
+    "material",
+    "counter",
+    "input",
+    "number"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.6.2",
+    "angular-material": "~1.1.3"   
+  }
+}
